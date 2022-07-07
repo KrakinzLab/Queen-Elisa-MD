@@ -18,7 +18,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "DARKMAKER(mrnima)",
+  "author": "krakinz",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.0.1",
@@ -66,10 +66,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DarkMakerofc/Queen-Elisa-MD.git"
+    "url": "git+https://github.com/krakinzlab/Queen-Elisa-MD.git"
   },
   "bugs": {
-    "url": "https://github.com/DarkMakerofc/Queen-Elisa-MD/issues"
+    "url": "https://github.com/krakinzlab/Queen-Elisa-MD/issues"
   },
-  "homepage": "https://github.com/DarkMakerofc/Queen-Elisa-MD#readme"
+  "homepage": "https://github.com/krakinzlab/Queen-Elisa-MD#readme"
 }
