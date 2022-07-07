@@ -39,8 +39,8 @@ Queen Elisa is simple Multi divece whatsapp bot in srilanka and English Made By 
 
 ``` I am in no way responsible for any mistakes you may make !```
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FFFF00&lines=If+you+think+this+bot+is+not+good;deploy+another+bot+you+like;If+you+have+Question+about+bot;join+our+Whatsapp+support+group;to+solve+it+♥️)](https://git.io/typing-svg)
-#### 𝙵𝚁𝙾 𝙼𝙾𝚁𝙴 
-+ [`𝙹𝙾𝙸𝙽 𝙷𝙴𝙻𝙿 𝙶𝚁𝙾𝚄𝙿`](https://chat.whatsapp.com/KYvD0uan1KKLUSTtMHV9vi) 
+#### 𝙵𝙾𝚁 𝙼𝙾𝚁𝙴 
++ [`𝙹𝙾𝙸𝙽 𝙷𝙴𝙻𝙿 𝙶𝚁𝙾𝚄𝙿`](https://chat.whatsapp.com/CsRj8Y3Sz9q1ukoaB5fmkL) 
 + [`𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙾𝚆𝙽𝙴𝚁`](https://wa.me/254718241545?text=From_Queen_Elisa_Md_Repo💃)
 
 #### ```TOTAL REPO VIEWS 🧚```
@@ -94,7 +94,7 @@ global.packname = 'Queen Elisa Sticker' // Sticker package name
 global.author = 'krakinz' // Sticker Autor name 
 global.sessionName = 'session'
 global.prefa = ['#','!','/',''] 
-global.sp = '🔵'
+global.sp = '🖥'
 // Alive massage , ඔබේ බොගේ alive massage  එක මෙහි ඇති ` ` මෙම ලකුනු ඇතුලේ ඔබට අවශ්‍ය ඔනිම දෙයක් Type කරන්න.💃
 global.alivelogo = `https://telegra.ph/file/1a2dee71baa975091620d.jpg`
 global.alive =`Hello I'am alive now
